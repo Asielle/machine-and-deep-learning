@@ -1,5 +1,4 @@
-# machine-and-deep-learning
-PROJET COUVRANT LES MODULES : - Optimisation pour le Machine Learning - Deep Learning : Théorie &amp; Pratique
+# machine-and-deep-learning - Optimisation pour le Machine Learning - Deep Learning : Théorie &amp; Pratique
 Partie I : Machine Learning 
 Considérons l’ensemble de données sur une maladie cardiaque, heart_disease.csv (téléchargé
 depuis Kaggle), contenant des données médicales sur n = 303 patients. Comme le montre la
